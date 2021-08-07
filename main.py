@@ -242,4 +242,4 @@ async def command333(ctx, *, user: discord.Member=None):
 			await ctx.send('чёт не вышло.')
 	else:
 		await ctx.send('пошёл ка нахуй, жди тимоху или самсунг ассистента.')
-
+client.run("Token")
